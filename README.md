@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muzammil0777" alt="muzammil0777" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack Web-development**
+- 🌱 I’m currently learning **Full-stack development**
 
 - 💬 Ask me about **Machine Learning**
 
