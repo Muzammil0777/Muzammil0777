@@ -5,7 +5,7 @@
 I build production AI products end to end, from the database and Python backend to the React frontend and deployment. Most of my work sits where LLMs, computer vision and real business workflows meet.
 
 [![Email](https://img.shields.io/badge/Email-muzammilmuzaffar18%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muzammilmuzaffar18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil%20Muzaffar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammil-muzaffar-83b697200/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil%20Muzaffar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzammilmuzaffar/)
 
 ---
 
@@ -35,4 +35,4 @@ I build production AI products end to end, from the database and Python backend 
 
 ---
 
-**Have an idea you want to build?** I'm not job hunting, but I'm always happy to talk through ideas and help where I can. Email me at [muzammilmuzaffar18@gmail.com](mailto:muzammilmuzaffar18@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/muzammil-muzaffar-83b697200/).
+**Have an idea you want to build?** I'm not job hunting, but I'm always happy to talk through ideas and help where I can. Email me at [muzammilmuzaffar18@gmail.com](mailto:muzammilmuzaffar18@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/muzammilmuzaffar/).
